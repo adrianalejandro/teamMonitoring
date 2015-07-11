@@ -1,0 +1,5 @@
+SS-070515-02;SS;02;Sunday Service;;;070515;;;;;
+WS-070315-01;WS;01;WildSons;;;070315;;;;;
+SS-062115-03;SS;03;Sunday Service;BOMB;Supernatural Vision;062115;062115;3PM;5PM;World Trade Center;
+CO-071815-01;CO;01;Crossover Ortigas;Kuya Albert;Communication;071815;071815;7PM;9PM;Ortigas;
+SS-071215-01;SS;01;Sunday Service;Bishop Oriel;Supernatural Faith Series;07/12/15;07/12/15;10:00;12:00;PICC Forum 3;

@@ -1,0 +1,3 @@
+SS-062115-03;SS;03;Sunday Service;Bishop Oriel;Supernatural Vision;06/21/15;06/21/15;3PM;5PM;World Trade Center;
+CO-071815-01;CO;01;Crossover Ortigas;Kuya Albert;Communication;07/18/15;07/18/15;7PM;9PM;Ortigas;
+SS-071215-01;SS;01;Sunday Service;Bishop Oriel;Supernatural Faith Series;07/12/15;07/12/15;10:00;12:00;PICC Forum 3;
